@@ -17,6 +17,6 @@ INSERT INTO users(name,age) VALUES
 ("Snape" ,54),
 ("Nymphadora", 34),
 ("Dolores", 72),
-("Peter Petigrue", 43)
-("James Potter", 50)
+("Peter Petigrue", 43),
+("James Potter", 50);
 
