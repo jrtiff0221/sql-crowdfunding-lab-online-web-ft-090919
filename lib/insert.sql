@@ -21,6 +21,6 @@ INSERT INTO users(name,age) VALUES
 ("James Potter", 50);
 
 INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES
-("wand fund" school )
+("wand fund", "school", 100, )
 
 
