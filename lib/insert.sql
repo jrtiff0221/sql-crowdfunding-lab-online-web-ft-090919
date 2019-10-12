@@ -20,3 +20,6 @@ INSERT INTO users(name,age) VALUES
 ("Peter Petigrue", 43),
 ("James Potter", 50);
 
+INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES
+
+
