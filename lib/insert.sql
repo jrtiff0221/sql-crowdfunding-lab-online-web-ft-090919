@@ -41,3 +41,4 @@ INSERT INTO pledges(amount,user_id,project_id) VALUES
 (400,1,2),
 (500,1,1),
 (400,1,2),
+
