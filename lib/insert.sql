@@ -22,7 +22,7 @@ INSERT INTO users(name,age) VALUES
 
 INSERT INTO projects(title,category,funding_goal,start_date,end_date) VALUES
 ("wand fund", "school", 100, 2019,2020),
-("book fund", "school", 200, 2020, 2021),
+("book fund", "book", 200, 2020, 2021),
 ("owl fund", "school", 150, 2018,2029),
 ("caulderon fund", "school", 250, 2017, 2018),
 ("broom fund", "school", 225, 2019,2020),
